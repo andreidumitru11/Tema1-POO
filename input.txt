@@ -1,0 +1,18 @@
+3 // nrProduse
+Laptop 2999.99 15
+Telefon 1499.49 30
+Mouse 99.99 50 // denumire pret stoc
+
+2 // nrClienti
+Ion Popescu // nume client
+2 // nrComenzi
+15 10 2023 2 // zi luna an nrProduse din comanda fiindca nu il cunosteau pt alocare
+Laptop 1
+Mouse 2
+
+18 10 2023 1
+Telefon 1
+
+Maria Ionescu
+0
+

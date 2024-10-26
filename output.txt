@@ -1,0 +1,21 @@
+ID Client: 300
+Nume: Ion Popescu
+Numar Comenzi: 2
+
+Comanda #1:
+Data comenzii: 15/10/2023
+Produse comandate:
+1 x Laptop (2999.99)
+2 x Mouse (199.98)
+Total comanda: 3199.97 RON
+
+Comanda #2:
+Data comenzii: 18/10/2023
+Produse comandate:
+1 x Telefon (1499.49)
+Total comanda: 1499.49 RON
+
+ID Client: 301
+Nume: Maria Ionescu
+Numar Comenzi: 0
+

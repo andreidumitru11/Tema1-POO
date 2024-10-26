@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1729946283 source:d:\info\tema1-poo-2024\client.cpp
+	"Client.hpp"
+
+1729945134 source:d:\info\tema1-poo-2024\comanda.cpp
+	"Comanda.hpp"
+	<iostream>
+	<cstring>
+
+1729946135 source:d:\info\tema1-poo-2024\main.cpp
+	"Produs.hpp"
+	"Comanda.hpp"
+	"Client.hpp"
+	<fstream>
+
+1729942598 source:d:\info\tema1-poo-2024\produs.cpp
+	"Produs.hpp"
+
+1729883886 d:\info\tema1-poo-2024\produs.hpp
+	<iostream>
+	<cstring>
+
+1729945145 d:\info\tema1-poo-2024\comanda.hpp
+	"Produs.hpp"
+
+1729943238 d:\info\tema1-poo-2024\client.hpp
+	"Comanda.hpp"
+
